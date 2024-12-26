@@ -1,4 +1,4 @@
 public class test {
-String test = "test";
-String ZZ ="ZZ11g";
-}
+    public static void main(String[] args) {
+       System.out.println("Hello World");
+       System.out.println("Hello World");
